@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/repos/movie_app/static/css/main.d2fcd02f.css",
-    "main.js": "/repos/movie_app/static/js/main.a2223738.js",
-    "static/js/787.7c42db31.chunk.js": "/repos/movie_app/static/js/787.7c42db31.chunk.js",
-    "index.html": "/repos/movie_app/index.html",
-    "main.d2fcd02f.css.map": "/repos/movie_app/static/css/main.d2fcd02f.css.map",
-    "main.a2223738.js.map": "/repos/movie_app/static/js/main.a2223738.js.map",
-    "787.7c42db31.chunk.js.map": "/repos/movie_app/static/js/787.7c42db31.chunk.js.map"
+    "main.css": "/repos/static/css/main.d2fcd02f.css",
+    "main.js": "/repos/static/js/main.5e4e5f4a.js",
+    "static/js/787.7c42db31.chunk.js": "/repos/static/js/787.7c42db31.chunk.js",
+    "index.html": "/repos/index.html",
+    "main.d2fcd02f.css.map": "/repos/static/css/main.d2fcd02f.css.map",
+    "main.5e4e5f4a.js.map": "/repos/static/js/main.5e4e5f4a.js.map",
+    "787.7c42db31.chunk.js.map": "/repos/static/js/787.7c42db31.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d2fcd02f.css",
-    "static/js/main.a2223738.js"
+    "static/js/main.5e4e5f4a.js"
   ]
 }
